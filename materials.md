@@ -14,6 +14,7 @@ title: Материалы для занятий
 - [Basic Algebra by A.W. Knapp](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf)
 
 ### Дискретная математика
+- [Math for Compiter Science MIT cource](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 - [Математика для всех](https://www.coursera.org/learn/matematika-dlya-vseh/) — очень веселый курс :)
 
 ### Введение в программирование на основе С++
