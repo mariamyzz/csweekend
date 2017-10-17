@@ -2,20 +2,20 @@
 
 ##### Oct 15, 2017
 
-- Введение в программирование на С++:
+_Введение в программирование на С++:_
 Всё ещё проходим [первую неделю](https://www.coursera.org/learn/c-plus-plus-white). Заваливаем один из тестов решения квадратного уравнения, хотя вроде бы покрыли все случаи. :) 
 
-- Дискретная математика: 
+_Дискретная математика:_
 Зачем-то долго застряли на магических квадратах, так что остановились вот на [этом видео](https://www.coursera.org/learn/what-is-a-proof/lecture/YBbGC/integer-linear-combinations)
 
 ##### Oct 14, 2017 
 
-- Линейная алгебра: 
+Линейная алгебра: 
 Посмотрели семь видео из плейлиста [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 То есть _следующая_, которую будем смотреть: Inverse matrices, column space and null space | Essence of linear algebra, chapter 6.
 И посмотрели [вторую лекцию Стрэнга](https://www.youtube.com/watch?v=QVKj3LADCnA). 
 
-- Математический анализ: 
+Математический анализ: 
 Запланированное видео оказалось для нас слишком сложным, поэтому мы посмотрели [вот эту лекцию](https://www.lektorium.tv/lecture/28659). 
 
 ### *Выходные #1*
