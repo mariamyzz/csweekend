@@ -8,7 +8,7 @@ _Введение в программирование на С++:_
 
 _Дискретная математика:_
 
-Зачем-то долго застряли на магических квадратах, так что остановились вот на [этом видео](https://www.coursera.org/learn/what-is-a-proof/lecture/YBbGC/integer-linear-combinations)
+Зачем-то долго застряли на магических квадратах, так что остановились вот на [этом видео](https://www.coursera.org/learn/what-is-a-proof/lecture/YBbGC/integer-linear-combinations).
 
 ##### Oct 14, 2017 
 
