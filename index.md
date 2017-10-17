@@ -9,12 +9,12 @@
 Сейчас мы проходим программу первого курса.
 
 Добавляйтесь в группу в Telegram:
-## https://t.me/joinchat/BX_C9wxMGVCfS2X6ycFeuA
+https://t.me/joinchat/BX_C9wxMGVCfS2X6ycFeuA
 
 Если вы хотите прийти, но не уверены в своем уровне или у вас есть вопросы, напишите мне в [Telegram](https://t.me/llnkor), [фейсбук](http://facebook.com/izomeraza), [на почту](mailto:myznikovam@gmail.com) или, в конце концов, на телефон +7 965 217-19-06.
 
 _____
-#### Программа курса
+Программа курса
 
 ### ПО СУББОТАМ
 
