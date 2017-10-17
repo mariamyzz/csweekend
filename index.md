@@ -14,8 +14,6 @@
 Если вы хотите прийти, но не уверены в своем уровне или у вас есть вопросы, напишите мне в [Telegram](https://t.me/llnkor), [фейсбук](http://facebook.com/izomeraza), [на почту](mailto:myznikovam@gmail.com) или, в конце концов, на телефон +7 965 217-19-06.
 
 _____
-Программа курса
-
 ### По субботам:
 
 #### Линейная алгебра
@@ -23,14 +21,14 @@ _____
 - [Краткий курс от 3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 #### Математический анализ 
-[Лекции на русском, экспериментируем с курсом](https://www.lektorium.tv/course/28662)
+- [Лекции на русском, экспериментируем с курсом](https://www.lektorium.tv/course/28662)
 
 ### По воскресеньям:
 
 #### Введение в С++
-[Пока что выбрали вот этот курс на курсере от МФТИ](https://www.coursera.org/learn/c-plus-plus-white)
+- [Пока что выбрали вот этот курс на курсере от МФТИ](https://www.coursera.org/learn/c-plus-plus-white)
 
 #### Дискретная математика
-[Опять же, какая-то рандомная специализация, которая вводно обозревает разные разделы](https://www.coursera.org/specializations/discrete-mathematics)
+- [Опять же, какая-то рандомная специализация, которая вводно обозревает разные разделы](https://www.coursera.org/specializations/discrete-mathematics)
 
 Все предложения по составу программы принимаются с благодарностью.
