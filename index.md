@@ -19,8 +19,8 @@ _____
 ### По субботам:
 
 #### Линейная алгебра
-[Лекции профессора Strang (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) 
-[Краткий курс от 3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Лекции профессора Strang (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) 
+- [Краткий курс от 3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 #### Математический анализ 
 [Лекции на русском, экспериментируем с курсом](https://www.lektorium.tv/course/28662)
