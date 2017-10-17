@@ -2,7 +2,10 @@ docs_list_title: Navigation bar
 docs:
 
 - title: O клубе
-  url: index.html
+  url: /
 
 - title: Материалы
   url: materials.html
+
+- title: Прошедшие занятия
+  url: past.html
