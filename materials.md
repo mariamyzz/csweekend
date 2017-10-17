@@ -11,7 +11,7 @@ title: Материалы для занятий
 ### Математический анализ
 
 ### Алгебра (не знаю, куда ее впихнуть, будем, возможно, двигать количество линейной алгебры постепенно)
-[Basic Algebra by A.W. Knapp](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf)
+- [Basic Algebra by A.W. Knapp](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf)
 
 ### Дискретная математика
 - [Математика для всех](https://www.coursera.org/learn/matematika-dlya-vseh/) — очень веселый курс :)
