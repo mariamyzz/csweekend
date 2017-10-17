@@ -16,16 +16,16 @@ https://t.me/joinchat/BX_C9wxMGVCfS2X6ycFeuA
 _____
 Программа курса
 
-### ПО СУББОТАМ
+#### По субботам:
 
-#### Линейная алгебра
+##### Линейная алгебра
 [Лекции профессора Strang (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 [Краткий курс от 3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-#### Математический анализ 
+##### Математический анализ 
 [Лекции на русском, экспериментируем с курсом](https://www.lektorium.tv/course/28662)
 
-### ПО ВОСКРЕСЕНЬЯМ
+### По воскресеньям:
 
 #### Введение в С++
 [Пока что выбрали вот этот курс на курсере от МФТИ](https://www.coursera.org/learn/c-plus-plus-white)
