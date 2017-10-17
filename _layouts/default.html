@@ -35,9 +35,9 @@
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p>{{ site.data.samplelist.docs_list_title }}</p>
+        <p>{{ site.data.navbar.docs_list_title }}</p>
         <ul>
-           {% for item in site.data.samplelist.docs %}
+           {% for item in site.data.navbar.docs %}
               <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
            {% endfor %}
         </ul>
