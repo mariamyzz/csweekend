@@ -2,7 +2,7 @@ docs_list_title: Navigation bar
 docs:
 
 - title: O клубе
-  url: /
+  url: index.html
 
 - title: Материалы
   url: materials.html
