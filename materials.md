@@ -13,7 +13,7 @@ title: Материалы для занятий
 ### Алгебра просто (не знаю, куда ее впихнуть, будем, возможно, двигать количество линейной алгебры постепенно)
 
 ### Дискретная математика
-[Математика для всех](https://www.coursera.org/learn/matematika-dlya-vseh/) — очень веселый курс :)
+- [Математика для всех](https://www.coursera.org/learn/matematika-dlya-vseh/) — очень веселый курс :)
 
 ### Введение в программирование на основе С++
 - [Страуструп на английском, 4 издание](https://github.com/BestSonny/materials/blob/master/The%20C%2B%2B%20Programming%20Language%20%5B4th%20Edition%5D%20-%20Bjarne%20Stroustrup.pdf)
