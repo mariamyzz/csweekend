@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Computer Science
+# по выходным
 
-You can use the [editor on GitHub](https://github.com/mariamyzz/csweekend/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Следующее место сбора для занятия в суботу 21 октября будет объявлено позднее.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Если вы всегда мечтали учить алгебру, матан и дискретку, чтобы быть классным, или плюсы, пайтон и алгоритмы, но вам не хватало вдохновения, то давайте вместе.
 
-### Markdown
+Собираемся **каждые выходные в 15:00** в антикафе, место объявляется отдельно. Обычно антикафе за 4 часа стоят в районе 500 рублей для участника.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Сейчас мы проходим программу первого курса.
 
-```markdown
-Syntax highlighted code block
+##Добавляйтесь в группу в Telegram
+[https://t.me/joinchat/BX_C9wxMGVCfS2X6ycFeuA](https://t.me/joinchat/BX_C9wxMGVCfS2X6ycFeuA)
 
-# Header 1
-## Header 2
-### Header 3
+Если вы хотите прийти, но не уверены в своем уровне или у вас есть вопросы, напишите мне в [Telegram](https://t.me/llnkor), [фейсбук](http://facebook.com/izomeraza), [на почту](mailto:myznikovam@gmail.com) или, в конце концов, на телефон _+7 965 217-19-06_.
 
-- Bulleted
-- List
+#Программа курса
 
-1. Numbered
-2. List
+##ПО СУББОТАМ
 
-**Bold** and _Italic_ and `Code` text
+#Линейная алгебра
+[Лекции профессора Strang (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+[Краткий курс от 3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-[Link](url) and ![Image](src)
-```
+#Математический анализ 
+[Лекции на русском, экспериментируем с курсом](https://www.lektorium.tv/course/28662)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## ПО ВОСКРЕСЕНЬЯМ
 
-### Jekyll Themes
+#Введение в С++
+[Пока что выбрали вот этот курс на курсере от МФТИ](https://www.coursera.org/learn/c-plus-plus-white)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mariamyzz/csweekend/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#Дискретная математика
+[Опять же, какая-то рандомная специализация, которая вводно обозревает разные разделы](https://www.coursera.org/specializations/discrete-mathematics)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Все предложения по составу программы принимаются с благодарностью.
