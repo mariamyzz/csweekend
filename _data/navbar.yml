@@ -1,6 +1,9 @@
 docs_list_title: Navigation bar
 docs:
 
+- title: Ближайшее занятие
+  url upcoming.html 
+  
 - title: O клубе
   url: index.html
 
