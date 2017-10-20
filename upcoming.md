@@ -8,10 +8,10 @@
 
 ### *План занятия*
 
-[Следующее видео по линейной алгебре из 3Blue1Brown](https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=8)
-[Третья лекция по линейной алгебре Strang](https://www.youtube.com/watch?v=FX4C-JpTFgY)
-[Вторая лекция по матану](https://www.lektorium.tv/lecture/30988)
-Хочу успеть посмотреть еще [лекцию по просто алгебре](https://www.lektorium.tv/lecture/28711), если получится.
+- [Следующее видео по линейной алгебре из 3Blue1Brown](https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=8)
+- [Третья лекция по линейной алгебре Strang](https://www.youtube.com/watch?v=FX4C-JpTFgY)
+- [Вторая лекция по матану](https://www.lektorium.tv/lecture/30988)
+- Хочу успеть посмотреть еще [лекцию по просто алгебре](https://www.lektorium.tv/lecture/28711), если получится.
 
 ### *Пререквизиты для грядущих выходных:*
 
