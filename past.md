@@ -1,3 +1,20 @@
+### *Выходные #3*
+
+##### Oct 21, 2017
+
+_Алгебра_
+- Начали смотреть [вот эту](https://www.lektorium.tv/lecture/28711), не зашло.
+- Посмотрели [лекцию Савватеева](https://www.youtube.com/watch?v=qCLjmIosZ1w). "Это вам потом объяснят" :)
+
+_Линейная алгебра_
+
+- [Дошли до седьмой главы (десятого кусочка) в курсе от 3Blue1Brown](https://www.youtube.com/watch?v=LyGKycYT2v0&index=10&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Третья лекция по линейной алгебре Strang](https://www.youtube.com/watch?v=FX4C-JpTFgY)
+
+_Матан_
+- [Вторая лекция по матану](https://www.lektorium.tv/lecture/28724)
+Пока не вполне ясно, будем ли продолжать смотреть курс. 
+
 ### *Выходные #2*
 
 ##### Oct 15, 2017
