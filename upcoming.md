@@ -8,6 +8,7 @@
 
 ### *План занятия*
 
+- [Дискретка](https://www.lektorium.tv/lecture/13895)
 - Будем пробовать решать задачки из [HackerRank](https://www.hackerrank.com), определимся, пойдёт или нет.
 - C++, [закрываем оставшиеся задачи из первой недели курса](https://www.coursera.org/learn/c-plus-plus-white/home/week/1)
 
