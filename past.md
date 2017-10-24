@@ -6,7 +6,7 @@ _Дискретная математика_
 - [Разобрали первую неделю комбинаторики](https://www.coursera.org/learn/modern-combinatorics/)
 
 _Введение в программирование на С++_
-- [Разобрали первую неделю из курса по С++](https://www.coursera.org/learn/c-plus-plus-white/home)
+- [Закрыли первую неделю из курса по С++](https://www.coursera.org/learn/c-plus-plus-white/home)
 
 ##### Oct 21, 2017
 
