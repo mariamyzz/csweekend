@@ -11,7 +11,7 @@
 ![map](https://pp.userapi.com/c622517/v622517522/4ccf2/HijHNyPsegI.jpg)
 
 ### *План занятия на субботу*
-- Встречаемся в 14:00 с теми, кто хочет освежить Python 3 для решения задач.
+- Встречаемся в 15:30
 
 _Линейная алгебра_
 - [Четвертая лекция Strang MIT](https://www.youtube.com/watch?v=MsIvs_6vC38)
