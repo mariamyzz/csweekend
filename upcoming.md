@@ -15,6 +15,9 @@ _Линейная алгебра_
 - [Четвертая лекция Strang MIT](https://www.youtube.com/watch?v=MsIvs_6vC38)
 - [Задачки на hackerrank по линейной алгебре](https://www.hackerrank.com/domains/mathematics/linear-algebra-foundations)
 
+_Матан_
+- [3Blue1Brown Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
 _Алгебра_
 - [Вторая лекция Савватеева](https://www.youtube.com/watch?v=CC-6K7g8AtI)
 - [Можно попробовать решить задачку по алгебре с хакерранка тоже](https://www.hackerrank.com/domains/mathematics/algebra?filters=difficulty%3Aeasy)
