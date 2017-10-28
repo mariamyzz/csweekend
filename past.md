@@ -1,3 +1,15 @@
+### *Выходные #4*
+
+##### Oct 28, 2017
+_Линейная алгебра_
+- [Четвертая лекция Strang MIT](https://www.youtube.com/watch?v=MsIvs_6vC38)
+
+_Матан_
+- [3Blue1Brown Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+_Алгебра_
+- [Третья лекция Савватеева](https://www.youtube.com/watch?v=uO3wt_C-5n8)
+
 ### *Выходные #3*
 
 ##### Oct 22, 2017
