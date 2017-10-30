@@ -3,7 +3,7 @@ title: Материалы для занятий
 ---
 ### Линейная алгебра
 
-- [Учебник Strang'a](https://ru.scribd.com/document/344711624/Gilbert-Strang-Introduction-to-Linear-Algebra-Wellesley-Cambridge-Press-2016) скачайте сразу, а то потом пробный период истечет)
+- [Учебник Strang'a](https://drive.google.com/open?id=0B_vy0h9jXD8bV3FzVXkwb3dRakU)
 - [Решения задач из учебника](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/assignments/)
 - [Конспекты лекций от самого Стрэнга](https://github.com/stevengj/1806/blob/master/summaries.md)
 - [Коллекция задачек, решать онлайн](https://www.lem.ma/books/VBS92YDYuscc5-lK/problems)
