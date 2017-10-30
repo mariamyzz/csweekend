@@ -14,10 +14,7 @@ title: Материалы для занятий
 ### Алгебра
 - [Basic Algebra by A.W. Knapp](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf)
 
-### Дискретная математика
-- [Math for Compiter Science MIT cource](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
-- [Математика для всех](https://www.coursera.org/learn/matematika-dlya-vseh/) — очень веселый курс :)
-
 ### Введение в программирование на основе С++
+- [Шилд, C++: базовый курс](https://www.bsuir.by/m/12_100229_1_98220.pdf)
 - [Страуструп на английском, 4 издание](https://github.com/BestSonny/materials/blob/master/The%20C%2B%2B%20Programming%20Language%20%5B4th%20Edition%5D%20-%20Bjarne%20Stroustrup.pdf)
 - [Страуструп на русском, третье издание](https://vk.com/doc10903696_260098201?hash=e166ab89f4440cdccf&dl=bf9a4e422eaea0d660) (это лучший перевод, который я нашла, в остальных качество лучше, но либо издание старое, либо перевод мне не нравится. Извините) 
