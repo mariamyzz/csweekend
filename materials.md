@@ -7,6 +7,7 @@ title: Материалы для занятий
 - [Решения задач из учебника](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/assignments/)
 - [Конспекты лекций от самого Стрэнга](https://github.com/stevengj/1806/blob/master/summaries.md)
 - [Коллекция задачек, решать онлайн](https://www.lem.ma/books/VBS92YDYuscc5-lK/problems)
+- [http://linear.ups.edu/](http://linear.ups.edu/)
 
 ### Математический анализ
 
