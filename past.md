@@ -1,5 +1,13 @@
 ### *Выходные #4*
 
+##### Oct 29, 2017
+
+_Комбинаторика_
+- [Первый раздел — о полиномиальной формуле](https://www.coursera.org/learn/modern-combinatorics/home/week/2)
+
+_Введение в программирование (на С++)_
+- [Разделы вплоть до 2.2](https://stepik.org/course/7/syllabus?module=2)
+
 ##### Oct 28, 2017
 _Линейная алгебра_
 - [Четвертая лекция Strang MIT](https://www.youtube.com/watch?v=MsIvs_6vC38)
