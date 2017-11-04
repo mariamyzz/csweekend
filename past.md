@@ -1,3 +1,14 @@
+### *Выходные #5*
+
+##### Nov 4, 2017
+
+_Математический анализ_
+- [Первые три лекции из курса "Мама, я Гейне!"](https://www.youtube.com/playlist?list=PLFg1XD1ytVo1woruiCDxj-_YgXNP6Uw17)
+
+_Линейная алгебра_
+- [Пятая лекция Strang MIT](https://www.youtube.com/watch?v=JibVXBElKL0)
+- [Пересмотрели соответствующий кусок о column space из 3Blue1Brown](https://www.youtube.com/watch?v=uQhTuRlWMxw)
+
 ### *Выходные #4*
 
 ##### Oct 29, 2017
