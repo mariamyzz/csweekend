@@ -1,7 +1,8 @@
 Занятие в воскресенье 5 ноября будет проходить в коворкинге ["Мир"](http://mirmir.ru/#rec3762083) по адресу Цветной Бульвар, д. 30с1.  
 Вход находится справа от кассы Concert.ru и слева от "Гнезда Глухаря". На охране нужно сказать, что вы в 303 офис.
 
-Будем дальше проходить [курс по С++](https://stepik.org/course/7/syllabus?module=2) и [комбинаторику](https://www.coursera.org/learn/modern-combinatorics/lecture/hZxNT/formulirovka-utvierzhdieniia)[]()_
+Будем дальше проходить [курс по С++](https://stepik.org/course/7/syllabus?module=2) и [комбинаторику](https://www.coursera.org/learn/modern-combinatorics/lecture/hZxNT/formulirovka-utvierzhdieniia)  
+
 ___
 Пока чаще всего занятия проходят в антикафе GeekTime, Новослободская, 36/1.
 
