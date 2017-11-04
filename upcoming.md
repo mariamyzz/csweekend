@@ -16,28 +16,28 @@ ___
 _Линейная алгебра_
 
 Мы слышали про:
-- понятие линейной комбинации,
-- понятие линейного преобразования,
-- геометрический смысл линейного преобразования,
-- использование матричного представления для решения линейных уравнений, 
-- умножение матриц, пять подходов, включая block multiplication,
-- умножение матриц разной размерности: размерность итоговой матрицы,
-- Gauss elimination,
-- Gauss-Jordan approach for solving two equations at once,
-- геометрический смысл детерминанта,
-- dot product,
-- inverse matrices, invertible and non-invertible matrices,
+- понятие линейной комбинации
+- понятие линейного преобразования
+- геометрический смысл линейного преобразования
+- использование матричного представления для решения линейных уравнений
+- умножение матриц, пять подходов, включая block multiplication
+- умножение матриц разной размерности: размерность итоговой матрицы
+- Gauss elimination
+- Gauss-Jordan approach for solving two equations at once
+- геометрический смысл детерминанта
+- dot product
+- inverse matrices, invertible and non-invertible matrices
 - Transposition: (A<sup>T</sup>)<sub>ij</sub> = A<sub>ji</sub>
-- Permutation matrices. Group of permutation matrices.
+- Permutation matrices. Group of permutation matrices
 - LU-factorization
 - column space (span of columns)
-- matrix rank (vaguely),
+- matrix rank
 - null space (the kernel)
 - Факторизация с перестановками строк: PA = LU
-- Symmetric matrices: A<sup>T</sup> * A = a symmetric matrix.
+- Symmetric matrices: A<sup>T</sup> * A = a symmetric matrix
 - (R<sup>T</sup>R)<sup>T</sup> = R<sup>T</sup>R<sup>TT</sup> = R<sup>T</sup>R
-- What are vector and non-vector spaces.
-- What is a subspace.
+- What are vector and non-vector spaces
+- What is a subspace
 
 
 _Алгебра_
@@ -82,4 +82,4 @@ _Дискретная математика_
 - Понятие размещения (порядок важен)
 - Сочетание (порядок неважен)
 - Число сочетаний и размещений с повторениями и без повторений (четыре формулы)
-- Бином Ньютона. Полиномиальная формула.
+- Бином Ньютона. Полиномиальная формула
