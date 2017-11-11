@@ -1,3 +1,15 @@
+### *Выходные #6*
+
+##### Nov 11, 2017
+_Линейная алгебра_
+- [Шестая лекция Strang MIT](https://www.youtube.com/watch?v=8o5Cmfpeo6g)
+
+_Математический анализ_
+- [#4: Свойства предела последовательности](https://www.youtube.com/watch?v=6SrDQmtD-w8&index=4&list=PLFg1XD1ytVo1woruiCDxj-_YgXNP6Uw17)
+
+_Теория групп_
+-[Лекция 1](https://www.youtube.com/watch?v=ihoATq9jSlQ)
+
 ### *Выходные #5*
 
 ##### Nov 5, 2017
