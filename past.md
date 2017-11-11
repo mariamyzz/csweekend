@@ -7,8 +7,8 @@ _Линейная алгебра_
 _Математический анализ_
 - [#4: Свойства предела последовательности](https://www.youtube.com/watch?v=6SrDQmtD-w8&index=4&list=PLFg1XD1ytVo1woruiCDxj-_YgXNP6Uw17)
 
-_Теория групп_
--[Лекция 1](https://www.youtube.com/watch?v=ihoATq9jSlQ)
+_Теория групп_ 
+- [Лекция 1](https://www.youtube.com/watch?v=ihoATq9jSlQ)
 
 ### *Выходные #5*
 
