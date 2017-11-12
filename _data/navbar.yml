@@ -6,6 +6,9 @@ docs:
   
 - title: O клубе
   url: index.html
+  
+- title: Конспекты
+  url: compendia.html
 
 - title: Материалы
   url: materials.html
