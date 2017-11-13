@@ -3,7 +3,7 @@
 ##### Nov 12, 2017  
 _Комбинаторика_  
 - [Закрывающий тест первой недели](https://www.coursera.org/learn/modern-combinatorics/exam/qdCIs/tiest-k-niedielie-1), кроме двух задач из блока дополнительных: про пароль и про гостей мужа и жены.
-- Посмотрели и попрактиковали [формулу включений и исключений] (https://www.coursera.org/learn/modern-combinatorics/lecture/hZxNT/formulirovka-utvierzhdieniia) и послушали про все комбинаторные тождества, кроме последнего.
+- Посмотрели и попрактиковали [формулу включений и исключений](https://www.coursera.org/learn/modern-combinatorics/lecture/hZxNT/formulirovka-utvierzhdieniia) и послушали про все комбинаторные тождества, кроме последнего.
 
 _Введение в программирование на С++_  
 - [Использование указателей](https://stepik.org/lesson/540/step/1?unit=863), ссылки.
