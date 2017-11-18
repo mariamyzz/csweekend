@@ -1,3 +1,12 @@
+### *Выходные #7*
+
+##### Nov 18, 2017  Суббота  
+_Математический анализ_
+- [#05 Теорема Вейерштрасса, частичные пределы](https://www.youtube.com/watch?v=yd6O5FF4JIw&index=5&list=PLFg1XD1ytVo1woruiCDxj-_YgXNP6Uw17)
+- [#06 Теоремы Больцано-Вейерштрасса и Кантора](https://www.youtube.com/watch?v=CmloUQQSKHo&list=PLFg1XD1ytVo1woruiCDxj-_YgXNP6Uw17&index=6) 
+- [Курс в Степике вот досюда](https://stepik.org/lesson/10246/step/2?unit=1977)
+- [Вот эта лекция МФТИ](http://lectoriy.mipt.ru/lecture/Maths-Basic_Analysis-L5_160919)
+
 ### *Выходные #6*
 
 ##### Nov 12, 2017  
