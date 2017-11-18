@@ -6,16 +6,8 @@
 
 ![map](https://pp.userapi.com/c622517/v622517522/4ccf2/HijHNyPsegI.jpg)
 
-### Предварительный план на субботу, 18 ноября:
+### Предварительный план на воскресенье, 19 ноября:
 
-_Линейная алгебра_
-- [Седьмая лекция Strang MIT.](https://www.youtube.com/watch?v=VqP2tREMvt0) Решаем каких-нибудь задачек, хотя бы и [эти](https://www.lem.ma/content/VR3M62ByEFMZodEw)  
-
-_Математический анализ_
-- [#05 Теорема Вейерштрасса, частичные пределы](https://www.youtube.com/watch?v=yd6O5FF4JIw&index=5&list=PLFg1XD1ytVo1woruiCDxj-_YgXNP6Uw17)
-- [#06 Теоремы Больцано-Вейерштрасса и Кантора](https://www.youtube.com/watch?v=CmloUQQSKHo&list=PLFg1XD1ytVo1woruiCDxj-_YgXNP6Uw17&index=6) 
-
-Меня привлекает еще курс МФТИ http://lectoriy.mipt.ru/course/Maths-Basic_Analysis#lectures  
-И я хочу порешать задачек на пределы, хотя бы поразбирать чужие. 
-
-
+- Плюсы, либо наш курс, либо курс с edx 
+- комбинаторика — завершим вторую неделю
+- вторая лекция теоретической информатики
