@@ -4,8 +4,8 @@
 _Теоретическая информатика_  
 - [Вторая лекция по теоретической информатике](https://www.lektorium.tv/lecture/28728)  
 
-_Современная комбинаторика_
--[Неделя 3, кроме итоговых задач](https://www.coursera.org/learn/modern-combinatorics/home/week/3)
+_Современная комбинаторика_  
+- [Неделя 3, кроме итоговых задач](https://www.coursera.org/learn/modern-combinatorics/home/week/3)
 
 _Введение в программирование на С++_ 
 - [C++: динамические многомерные массивы, раздел 2.7](https://stepik.org/course/7/syllabus)
@@ -18,7 +18,7 @@ _Математический анализ_
 
 ##### Nov 19, 2017  Вс
 _Современная комбинаторика_
--[Неделя 2](https://www.coursera.org/learn/modern-combinatorics/home/week/2)
+- [Неделя 2](https://www.coursera.org/learn/modern-combinatorics/home/week/2)
 
 _Введение в программирование на С++_
 - [C++: динамическая память, раздел 2.6](https://stepik.org/course/7/syllabus)
