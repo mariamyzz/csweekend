@@ -10,6 +10,7 @@ title: Материалы для занятий
 - [http://linear.ups.edu/](http://linear.ups.edu/)
 
 ### Математический анализ
+- [Ссылки на учебники Зорича и Кудрявцева](https://vk.com/wall-53685940_138)
 
 ### Алгебра
 - [Basic Algebra by A.W. Knapp](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf)
