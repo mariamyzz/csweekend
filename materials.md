@@ -18,6 +18,6 @@ title: Материалы для занятий
 - [Шилд, C++: базовый курс](https://www.bsuir.by/m/12_100229_1_98220.pdf)
 - [Страуструп на английском, 4 издание](https://github.com/BestSonny/materials/blob/master/The%20C%2B%2B%20Programming%20Language%20%5B4th%20Edition%5D%20-%20Bjarne%20Stroustrup.pdf)
 - [Страуструп на русском, третье издание](https://vk.com/doc10903696_260098201?hash=e166ab89f4440cdccf&dl=bf9a4e422eaea0d660) (это лучший перевод, который я нашла, в остальных качество лучше, но либо издание старое, либо перевод мне не нравится. Извините)
-- [Конспект лекций курса "Программирование на языке C++" (Stepic)](https://drive.google.com/file/d/1xULGjfUvuOYQjdSM6D10yuQkDOMtPvWp/view?usp=sharing)
-- [Рекомендуемая литература по курсу "Программирование на языке C++" (Stepic)](https://drive.google.com/open?id=1jw143HvvvpW7DTwirAkwcpcAKQkgSlJi)
+- [Конспект лекций курса "Программирование на языке C++" (Stepik)](https://drive.google.com/file/d/1xULGjfUvuOYQjdSM6D10yuQkDOMtPvWp/view?usp=sharing)
+- [Рекомендуемая литература по курсу "Программирование на языке C++" (Stepik)](https://drive.google.com/open?id=1jw143HvvvpW7DTwirAkwcpcAKQkgSlJi)
 - [Курс на Saylor.org](https://learn.saylor.org/course/view.php?id=65)
