@@ -25,3 +25,12 @@ title: Материалы для занятий
 - [Конспект лекций курса "Программирование на языке C++" (Stepik)](https://drive.google.com/file/d/1xULGjfUvuOYQjdSM6D10yuQkDOMtPvWp/view?usp=sharing)
 - [Рекомендуемая литература по курсу "Программирование на языке C++" (Stepik)](https://drive.google.com/open?id=1jw143HvvvpW7DTwirAkwcpcAKQkgSlJi)
 - [Курс на Saylor.org](https://learn.saylor.org/course/view.php?id=65)
+
+
+### Mathoverflow
+- [https://math.stackexchange.com/](https://math.stackexchange.com/)
+- [https://mathoverflow.net/](http://dxdy.ru/)
+- [http://dxdy.ru/](http://dxdy.ru/)
+
+### Other links
+- [Рекомендованные HSE онлайн курсы](https://www.hse.ru/ba/ami/moocs)
