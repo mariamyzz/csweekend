@@ -1,3 +1,22 @@
+### *Выходные #9*
+
+##### Dec 3, 2017  Вс
+_Математический анализ_  
+- [До второго раздела на Stepik](https://stepik.org/course/95/syllabus)
+- [#08 Функции и предел функций](https://www.youtube.com/watch?v=Qg0GzacGBK8&index=8&list=PLFg1XD1ytVo1woruiCDxj-_YgXNP6Uw17)
+
+_Введение в программирование_  
+- Так получилось, что мы разбирали [Wagtail](http://docs.wagtail.io/en/v1.13.1/index.html)
+
+##### Dec 2, 2017  Суббота
+_Линейная алгебра_
+- [Курс на Stepik, до 1.4 и кусочек из 3.3](https://stepik.org/course/79/syllabus)
+
+_Введение в программирование_
+- [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo): дошли до [#8](https://www.youtube.com/watch?v=zltgXvg6r3k&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&index=9)
+- [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
+- Поразбирали, как писать на голом Си.
+
 ### *Выходные #8*
 
 ##### Nov 26, 2017  Вс
