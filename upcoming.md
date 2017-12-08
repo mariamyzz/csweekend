@@ -6,7 +6,7 @@
 Для получения пропуска в бизнес-центр, на ресепшен необходимо показать паспорт.
 Далее на лифте на 7 этаж.
 
-[Карта](https://github.com/mariamyzz/csweekend/blob/master/assets/map_coworking_station.png)
+![Карта](https://mariamyzz.github.io/csweekend/assets/map_coworking_station.png)
 
 {% comment %} 
 в антикафе GeekTime, Новослободская, 36/1.  
