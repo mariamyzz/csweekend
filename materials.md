@@ -29,7 +29,7 @@ title: Материалы для занятий
 
 ### Mathoverflow
 - [https://math.stackexchange.com/](https://math.stackexchange.com/)
-- [https://mathoverflow.net/](http://dxdy.ru/)
+- [https://mathoverflow.net/](https://mathoverflow.net/)
 - [http://dxdy.ru/](http://dxdy.ru/)
 
 ### Other links
