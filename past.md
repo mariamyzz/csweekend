@@ -1,3 +1,19 @@
+### *Выходные #11*
+
+_Введение в программирование на С++_  
+- [Написали ортогонализацию Грама-Шмидта](https://gist.github.com/mariamyzz/d4a41b16ad11c636cb30dfbe17449e24)
+- [5.1 Перегрузка операторов](https://stepik.org/lesson/558/step/1?unit=881)
+
+_Математический анализ_  
+- [2.5, 2.6, 3.1 и начали 3.2](https://stepik.org/course/95/syllabus)
+
+_Линейная алгебра_  
+- [3.1 Ортогональный базис](https://stepik.org/lesson/9584/step/1?unit=23534)
+- [4.1](https://stepik.org/lesson/11199/step/5)
+- [Change of basis](https://www.youtube.com/watch?v=P2LTAUO1TdA&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=13)
+- [Eigenvectors](https://youtu.be/PFDu9oVAE-g)
+
+
 ### *Выходные #10*
 
 _Введение в программирование на С++_  
