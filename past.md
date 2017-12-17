@@ -9,7 +9,7 @@ _Математический анализ_
 
 _Линейная алгебра_  
 - [3.1 Ортогональный базис](https://stepik.org/lesson/9584/step/1?unit=23534)
-- [4.1](https://stepik.org/lesson/11199/step/5)
+- [4.1 Eigenvectors, eigenspaces and structure of linear operators](https://stepik.org/lesson/11199/step/5)
 - [Change of basis](https://www.youtube.com/watch?v=P2LTAUO1TdA&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=13)
 - [Eigenvectors](https://youtu.be/PFDu9oVAE-g)
 
