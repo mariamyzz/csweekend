@@ -1,4 +1,19 @@
-### *Выходные #11*
+### *Выходные #15* (Jan 14, 2018)
+В субботу был экзамен по линалу, так что занятий не было. 
+В вс готовились к предстоящему экзамену по матану: разбирали задачи из Демидовича для ВТУЗов, номера 1031-1125, посмотрели [Integration by 3BrownBlue](https://www.youtube.com/watch?v=rfG8ce4nNh0&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=8)
+
+### *Выходные #14* (Jan 6, 2018)
+Разбирали методички для подготовки к экзамену по матану и линейной алгебре. 
+
+### *Выходные #13* (Dec 30, 2017)
+_Математический анализ_ 
+- [Прошли всё до раздела 4.3](https://stepik.org/course/95/syllabus)
+
+### *Выходные #12* (Dec 23 & Dec 24, 2017)
+_Математический анализ_ 
+- [3.3, 3.4, 3.5]
+
+### *Выходные #11* (Dec 16 & Dec 17, 2017)
 
 _Введение в программирование на С++_  
 - [Написали ортогонализацию Грама-Шмидта](https://gist.github.com/mariamyzz/d4a41b16ad11c636cb30dfbe17449e24)
@@ -13,8 +28,7 @@ _Линейная алгебра_
 - [Change of basis](https://www.youtube.com/watch?v=P2LTAUO1TdA&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=13)
 - [Eigenvectors](https://youtu.be/PFDu9oVAE-g)
 
-
-### *Выходные #10*
+### *Выходные #10* (Dec 9 & Dec 10, 2017)
 
 _Введение в программирование на С++_  
 - [До раздела 3.6](https://stepik.org/course/7/syllabus)
@@ -149,16 +163,15 @@ _Введение в программирование на С++_
 
 ##### Oct 21, 2017
 
-_Алгебра_
+_Алгебра_  
 - Начали смотреть [вот эту](https://www.lektorium.tv/lecture/28711), не зашло.
 - Посмотрели [лекцию Савватеева](https://www.youtube.com/watch?v=qCLjmIosZ1w). "Это вам потом объяснят" :)
 
-_Линейная алгебра_
-
+_Линейная алгебра_  
 - [Дошли до седьмой главы (десятого кусочка) в курсе от 3Blue1Brown](https://www.youtube.com/watch?v=LyGKycYT2v0&index=10&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Третья лекция по линейной алгебре Strang](https://www.youtube.com/watch?v=FX4C-JpTFgY)
 
-_Матан_
+_Матан_  
 - [Вторая лекция по матану](https://www.lektorium.tv/lecture/28724)
 Пока не вполне ясно, будем ли продолжать смотреть курс. 
 
@@ -167,23 +180,19 @@ _Матан_
 ##### Oct 15, 2017
 
 _Введение в программирование на С++:_
-
 Всё ещё проходим [первую неделю](https://www.coursera.org/learn/c-plus-plus-white). Заваливаем один из тестов решения квадратного уравнения, хотя вроде бы покрыли все случаи. :) 
 
 _Дискретная математика:_
-
 Зачем-то долго застряли на магических квадратах, так что остановились вот на [этом видео](https://www.coursera.org/learn/what-is-a-proof/lecture/YBbGC/integer-linear-combinations).
 
 ##### Oct 14, 2017 
 
 _Линейная алгебра:_
-
 Посмотрели семь видео из плейлиста [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 То есть _следующая_, которую будем смотреть: Inverse matrices, column space and null space | Essence of linear algebra, chapter 6.
 И посмотрели [вторую лекцию Стрэнга](https://www.youtube.com/watch?v=QVKj3LADCnA). 
 
 _Математический анализ:_
-
 Запланированное видео оказалось для нас слишком сложным, поэтому мы посмотрели [вот эту лекцию](https://www.lektorium.tv/lecture/28659). 
 
 ### *Выходные #1*
@@ -191,19 +200,15 @@ _Математический анализ:_
 ##### Oct 9, 2017
 
 _Введение в программирование на С++:_
-
 Частично первая неделя из: [https://www.coursera.org/learn/c-plus-plus-white](https://www.coursera.org/learn/c-plus-plus-white)
 
 _Дискретная математика:_
-
 [https://www.coursera.org/learn/what-is-a-proof/home/week/1](https://www.coursera.org/learn/what-is-a-proof/home/week/1)
 
 ##### Oct 8, 2017
 
 _Линейная алгебра:_
-
 [Первая лекция Strang (MIT)](https://youtu.be/ZK3O402wf1c)
 
 _Матан:_
-
 мы стушевались и запутались при выборе курса, особенно не вышло ничего.
