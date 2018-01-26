@@ -33,7 +33,7 @@ title: CS Weekend Club: This Weekend
 
 ### План занятий на субботу, 27 января 2018
 - Освежим комбинаторику 
-- Посмотрим, например, [Математическая логика и теория алгоритмов] (http://lectoriy.mipt.ru/course/Maths-MathematicalLogic-14L#lectures)
+- Посмотрим, например, [Математическая логика и теория алгоритмов](http://lectoriy.mipt.ru/course/Maths-MathematicalLogic-14L#lectures)
 - Можно начать смотреть еще по алгоритмам курс, обсудим. 
 
 {% comment %} 
