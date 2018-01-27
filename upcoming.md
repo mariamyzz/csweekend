@@ -1,9 +1,9 @@
 ---
 title: CS Weekend Club: This Weekend
 ---
-в субботу 27 января собираемся в 15:00 в офисе компании looi :) Это Ленинградский проспект, дом 9, 1 подъезд (на торце, который обращён к метро/центру), код домофона в26в1234, 7 этаж, двреь с надписью looi.
+В субботу 27 января собираемся в 15:00 в офисе компании looi :) Это Ленинградский проспект, дом 9, 1 подъезд (на торце, который обращён к метро/центру), код домофона в26в1234, 7 этаж, дверь с надписью "looi".
 
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Afd95f8771ab71be2d8c40f1f8d472139698eb81cf7f28b84dae3930c383c3b03&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Afd95f8771ab71be2d8c40f1f8d472139698eb81cf7f28b84dae3930c383c3b03&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>     
 
 
 {% comment %} 
