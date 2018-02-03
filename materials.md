@@ -1,6 +1,14 @@
 ---
 title: Материалы для занятий
 ---
+### Дискретка
+- [Кафедра дискретной математики ФИВТ МФТИ: матлогика и теория алгоритмов](http://ru.discrete-mathematics.org/?page_id=3732)
+- Н. К. Верещагин, А. Шень. Лекции по математической логике и теории алгоритмов:
+  - [Часть 1. Начала теории множеств.](https://www.mccme.ru/free-books/shen/shen-logic-part1-2.pdf)
+  - [Часть 2. Языки и исчисления.](https://www.mccme.ru/free-books/shen/shen-logic-part2-2.pdf)
+  - [Часть 3. Вычислимые функции.](https://www.mccme.ru/free-books/shen/shen-logic-part3-2.pdf)
+- [Лидовский, Теория информации](https://www.mccme.ru/free-books/izdano/2004/it_ebook1.pdf)
+
 ### Линейная алгебра
 
 - [Учебник Strang'a](https://drive.google.com/open?id=0B_vy0h9jXD8bV3FzVXkwb3dRakU)
