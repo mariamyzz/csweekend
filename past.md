@@ -1,6 +1,14 @@
-### *Выходные #17* (Jan 27, 2018)
+### *Выходные #18* (Feb 3 & Feb 4, 2018)
+- [Теория графов: 1.3, 1.4](https://stepik.org/course/126/syllabus)
+- [Курс Райгородского по теории вероятности, всё до формулы полной вероятности](https://www.coursera.org/learn/probability-theory-basics/lecture/ZCH7M/formula-polnoi-vieroiatnosti)
+- [Повторяли азы HTML&CSS, на этой основе планирую разобрать DOM](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/#block-v1:PennX+SD4x+2T2017+type@chapter+block@6d6b74bb9f8c43088e919a6310f19b39)
+
+### *Выходные #17* (Jan 27 & Jan 29, 2018)
 - [Основы теории графов](https://stepik.org/course/126/syllabus). Посмотрели 1.1 и 1.2
 - [Математическая логика и теория алгоритмов, лекция 1](http://lectoriy.mipt.ru/lecture/Maths-MathemLogic-L01-Musatov-140903.03)
+
+- [Про модель ОСИ, как-то сбивчиво](https://park.mail.ru/materials/video/323/)
+- [Операционные системы. 1.1-1.3, про Ассемблер](https://stepik.org/course/1780/syllabus)
 
 ### *Выходные #15* (Jan 14, 2018)
 В субботу был экзамен по линалу, так что занятий не было. 
