@@ -1,7 +1,9 @@
 ### *Выходные #18* (Feb 3 & Feb 4, 2018)
 - [Теория графов: 1.3, 1.4](https://stepik.org/course/126/syllabus)
 - [Курс Райгородского по теории вероятности, всё до формулы полной вероятности](https://www.coursera.org/learn/probability-theory-basics/lecture/ZCH7M/formula-polnoi-vieroiatnosti)
-- [Повторяли азы HTML&CSS, на этой основе планирую разобрать DOM](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/#block-v1:PennX+SD4x+2T2017+type@chapter+block@6d6b74bb9f8c43088e919a6310f19b39)
+- [Повторяли азы HTML&CSS, начали разбирать js, на этой основе планирую разобрать DOM](https://courses.edx.org/courses/course-v1:PennX+SD4x+2T2017/course/#block-v1:PennX+SD4x+2T2017+type@chapter+block@6d6b74bb9f8c43088e919a6310f19b39)
+- [Операционные системы 1.4-1.5](https://stepik.org/course/1780/syllabus)
+- [Введение в Linux](https://stepik.org/course/73/syllabus): поставили Debian, без GUI, залили публичные ключи на сервер, но не успели проверить, что аутентификация по ключу работает. Понастраивали apt из коробки.
 
 ### *Выходные #17* (Jan 27 & Jan 29, 2018)
 - [Основы теории графов](https://stepik.org/course/126/syllabus). Посмотрели 1.1 и 1.2
