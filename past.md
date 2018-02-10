@@ -1,3 +1,10 @@
+### *Выходные #19* (Feb 10 & Feb 11, 2018)
+- [Технотрек Mail.ru Group, МФТИ, Веб-разработка, 1: Протоколы](https://www.youtube.com/watch?v=PsLzEAsphbM)
+- [Технотрек Mail.ru Group, МФТИ, Веб-разработка, 2: Web серверы](https://www.youtube.com/watch?v=wV2WavaPNrU)
+- [Технотрек Mail.ru Group, МФТИ, Веб-разработка, 3: Серверная разработка](https://www.youtube.com/watch?v=wV2WavaPNrU)
+
+[Ссылка на репу, в которой лежат файлы, которые он использует в видео 2](https://github.com/sat2707/web/tree/master/tcp_servers)
+
 ### *Выходные #18* (Feb 3 & Feb 4, 2018)
 - [Теория графов: 1.3, 1.4](https://stepik.org/course/126/syllabus)
 - [Курс Райгородского по теории вероятности, всё до формулы полной вероятности](https://www.coursera.org/learn/probability-theory-basics/lecture/ZCH7M/formula-polnoi-vieroiatnosti)
