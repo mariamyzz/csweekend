@@ -47,3 +47,6 @@ title: Материалы для занятий
 
 ### Other links
 - [Рекомендованные HSE онлайн курсы](https://www.hse.ru/ba/ami/moocs)
+
+### Linux
+- [Программирование в Linux с нуля](https://www.opennet.ru/docs/RUS/zlp/index.html)
