@@ -6,6 +6,9 @@ title: Материалы для занятий
 - [Huge collection of e-books](http://www.wowebook.org/)
 - [IT e-books](http://it-ebooks.info)
 
+### Linux
+- [Программирование в Linux с нуля](https://www.opennet.ru/docs/RUS/zlp/index.html)
+
 ### Дискретка
 - [Кафедра дискретной математики ФИВТ МФТИ: матлогика и теория алгоритмов](http://ru.discrete-mathematics.org/?page_id=3732)
 - Н. К. Верещагин, А. Шень. Лекции по математической логике и теории алгоритмов:
@@ -47,6 +50,3 @@ title: Материалы для занятий
 
 ### Other links
 - [Рекомендованные HSE онлайн курсы](https://www.hse.ru/ba/ami/moocs)
-
-### Linux
-- [Программирование в Linux с нуля](https://www.opennet.ru/docs/RUS/zlp/index.html)
