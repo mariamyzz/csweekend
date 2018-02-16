@@ -31,8 +31,8 @@ title: CS Weekend Club: This Weekend
 ![map](https://pp.userapi.com/c622517/v622517522/4ccf2/HijHNyPsegI.jpg)
 {% endcomment %}
 
-### План занятий на вс, 4 февраля 2018
-- TBD 
+### План занятий на cб, 17 февраля 2018
+Будем проходить [туториал по джанге](https://docs.djangoproject.com/en/2.0/intro/tutorial01/) 
 
 {% comment %} 
 ### План занятий на вс, 24 декабря 2017
