@@ -1,7 +1,7 @@
 ### *Выходные #20* (Feb 17 & Feb 18, 2018)
 - [Writing your first Django app, все 7 частей](https://docs.djangoproject.com/en/2.0/contents/)
 - [Технотрек Mail.ru, МФТИ, Веб-разработка, 4: Обработка пользовательских данных](https://www.youtube.com/watch?v=_cS6dlaj4IA&index=4&list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ)
-- [Технотрек Mail.ru, МФТИ, Веб-разработкаб 5: html, css, javascript](https://www.youtube.com/watch?v=2jRh8NnbXh0&list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ&index=5)
+- [Технотрек Mail.ru, МФТИ, Веб-разработка, 5: html, css, javascript](https://www.youtube.com/watch?v=2jRh8NnbXh0&list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ&index=5)
 
 
 ### *Выходные #19* (Feb 10 & Feb 11, 2018)
