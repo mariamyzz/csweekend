@@ -31,11 +31,10 @@ title: CS Weekend Club: This Weekend
 ![map](https://pp.userapi.com/c622517/v622517522/4ccf2/HijHNyPsegI.jpg)
 {% endcomment %}
 
-### План занятий на cб, 17 февраля 2018
-Будем проходить [туториал по джанге](https://docs.djangoproject.com/en/2.0/intro/tutorial01/) 
+### План занятий на cб, 3 марта 2018
+- Продолжим развивать наше приложение на Django 2
+- Освежим матан либо продолжим теорию графов/теорию вероятностей
 
-{% comment %} 
-### План занятий на вс, 24 декабря 2017
-- [С++: 3.6 и далее](https://stepik.org/course/7/syllabus)
-- И, допустим, решение задач из Демидовича
-{% endcomment %}
+### План занятий на вс, 4 марта 2017
+- [Продолжим курс по С++](https://stepik.org/course/7/syllabus)
+- Обсуждаемый слот :)
