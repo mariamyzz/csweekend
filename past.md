@@ -4,6 +4,10 @@ _Математическая логика и теория алгоритмов_
 
 _Django app_
 - Первый пуш!
+- Второй пуш! Создали develop ветку и зовем всех к колаборации) 
+
+_Операционные системы_
+- [Разделы 2.1-2.3](https://stepik.org/course/1780/syllabus)
 
 ### *Выходные #20* (Feb 17 & Feb 18, 2018)
 - [Writing your first Django app, все 7 частей](https://docs.djangoproject.com/en/2.0/contents/)
