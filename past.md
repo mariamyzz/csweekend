@@ -1,3 +1,10 @@
+### *Выходные #22* (Feb 24 & Feb 25, 2018)
+_Математическая логика и теория алгоритмов_
+- [Лекция 2: Пропозициональные формулы и булевые функции](http://lectoriy.mipt.ru/lecture/Maths-MathemLogic-L02-Musatov-140910.04)
+
+_Django app_
+- Первый пуш!
+
 ### *Выходные #20* (Feb 17 & Feb 18, 2018)
 - [Writing your first Django app, все 7 частей](https://docs.djangoproject.com/en/2.0/contents/)
 - [Технотрек Mail.ru, МФТИ, Веб-разработка, 4: Обработка пользовательских данных](https://www.youtube.com/watch?v=_cS6dlaj4IA&index=4&list=PLrCZzMib1e9pg7ZLIOhmGSlmkMf8yEOLZ)
