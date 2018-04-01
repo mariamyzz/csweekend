@@ -3,6 +3,11 @@
 - [Матан от Савватеева: 1-2 разделы. До этого смотрели седьмой, незадокументированно.](https://courses.openedu.ru/courses/course-v1:mipt+MATAN+winter_2018/courseware/3ecd51643d0d49d98c6c7cbbe9bee709/6cd5b303f1cb48549400f1e4b023d3a6/)
 - [Теория графов: до этого незадокументированно закрыли первый раздел, сегодня второй, но без итоговых задач](https://courses.openedu.ru/courses/course-v1:mipt+GRAPHTH+winter_2018/courseware/b584d248a7f54ed492c0b9d4c8f0a90f/0a1fce55c0ec4b3c981f801d4de3933c/)
 
+Занятие 51
+- [Методы и алгоритмы теории графов: первые две недели](https://courses.openedu.ru/courses/course-v1:ITMOUniversity+AGRAPH+spring_2018/courseware/b57aa4fce1424e47bad670536e219ca6/3cd3f379b3cf420db1b92038cf61b491/)
+- Написали свой класс под графы на питоне, попытались сделать волновой алгоритм на нём, устали
+- [Алгоритмы и структуры данных: первая неделя](https://courses.openedu.ru/courses/course-v1:ITMOUniversity+PADS+spring_2018/courseware/587ff1f8ed254b2b9fb9611efbd60230/320ee7203c2b46a18204cc0100829d1a/)
+
 ### *Выходные #23* (Feb 24 & Feb 25, 2018)
 Занятие 42
 - Кратко повторили матан первого семестра: пределы, производные, интегралы
